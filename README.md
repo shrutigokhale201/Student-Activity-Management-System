@@ -1,2 +1,2 @@
 # SMS
-Student Management System Project in PHP using BOOTSTRAP
+Student Management System Project in PHP 
